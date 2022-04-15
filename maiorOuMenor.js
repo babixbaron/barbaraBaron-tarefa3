@@ -12,4 +12,4 @@ function maiorOuMenor(a, b) {
 
 console.log(maiorOuMenor(1,2))
 console.log(maiorOuMenor(3,2))
-console.log(maiorOuMenor(1,1))
+console.log(maiorOuMenor(5,5))
